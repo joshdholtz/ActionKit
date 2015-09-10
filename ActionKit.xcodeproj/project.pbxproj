@@ -163,6 +163,8 @@
 		438CAE4A1B50060D00EA8B00 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = ActionKit;
 				TargetAttributes = {
@@ -406,6 +408,7 @@
 				438CAE6B1B50060D00EA8B00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		438CAE6C1B50060D00EA8B00 /* Build configuration list for PBXNativeTarget "ActionKitTests" */ = {
 			isa = XCConfigurationList;
@@ -414,6 +417,7 @@
 				438CAE6E1B50060D00EA8B00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
